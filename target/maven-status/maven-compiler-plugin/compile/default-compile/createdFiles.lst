@@ -1,0 +1,9 @@
+com/example/solstice/controller/PrintWebhookController.class
+com/example/solstice/config/RabbitMQConfig.class
+com/example/solstice/model/Attendee.class
+com/example/solstice/service/CheckInService.class
+com/example/solstice/messaging/PrintRequestProducer.class
+com/example/solstice/messaging/PrintRequest.class
+com/example/solstice/controller/CheckInController.class
+com/example/solstice/SolsticeCheckinApplication.class
+com/example/solstice/messaging/PrintRequestConsumer.class

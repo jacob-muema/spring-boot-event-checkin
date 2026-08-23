@@ -1,0 +1,9 @@
+/home/jacob-muema/Pictures/solstice-checkin/src/main/java/com/example/solstice/SolsticeCheckinApplication.java
+/home/jacob-muema/Pictures/solstice-checkin/src/main/java/com/example/solstice/config/RabbitMQConfig.java
+/home/jacob-muema/Pictures/solstice-checkin/src/main/java/com/example/solstice/controller/CheckInController.java
+/home/jacob-muema/Pictures/solstice-checkin/src/main/java/com/example/solstice/controller/PrintWebhookController.java
+/home/jacob-muema/Pictures/solstice-checkin/src/main/java/com/example/solstice/messaging/PrintRequest.java
+/home/jacob-muema/Pictures/solstice-checkin/src/main/java/com/example/solstice/messaging/PrintRequestConsumer.java
+/home/jacob-muema/Pictures/solstice-checkin/src/main/java/com/example/solstice/messaging/PrintRequestProducer.java
+/home/jacob-muema/Pictures/solstice-checkin/src/main/java/com/example/solstice/model/Attendee.java
+/home/jacob-muema/Pictures/solstice-checkin/src/main/java/com/example/solstice/service/CheckInService.java
